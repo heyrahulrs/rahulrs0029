@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rahul. 19 years old, learning iOS Developer.
+I'm Rahul. 20 years old, learning iOS Developer.
 
 I'm currently working on my own app.
 
