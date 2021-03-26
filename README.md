@@ -2,7 +2,7 @@
 
 I'm Rahul. 20 years old, learning iOS Developer.
 
-I'm currently working on my own app.
+I'm currently working on my own app called [Timed](https://usetimed.com).
 
 <!--
 **rahulrs0029/rahulrs0029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
