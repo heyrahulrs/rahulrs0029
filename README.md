@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Rahul. 20 years old, learning iOS Developer.
+I'm Rahul. 21 years old, learning iOS Developer.
 
-I'm currently working on my own app called [Timed](https://usetimed.com).
+I'm currently working on my app, [Timed](https://usetimed.com). Timed is an interval-based workout timer app for iPhone and Apple Watch.
 
 <!--
 **rahulrs0029/rahulrs0029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
