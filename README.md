@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rahul. 21 years old, iOS Developer looking for internship in SwiftUI.
+I'm Rahul. I'm an iOS Developer looking for internship in SwiftUI.
 
 I'm also working on my app, [Timed](https://usetimed.com). Timed is an interval-based workout timer app for iPhone and Apple Watch.
 
